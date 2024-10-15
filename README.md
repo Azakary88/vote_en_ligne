@@ -27,3 +27,12 @@ VoteEnLigne constitue un système efficace pour gérer des élections en ligne,
 permettant aux utilisateurs de voter facilement tout en offrant une interface 
 administrable pour le suivi des élections.
 # VoteEnLigne
+# Mon Projet VoteEnLigne
+
+Voici quelques captures d'écran de mon projet :
+
+![Capture d'écran 1](images/Capture%20d%27écran%20(51).png)
+![Capture d'écran 2](images/Capture%20d%27écran%20(53).png)
+![Capture d'écran 3](images/Capture%20d%27écran%20(54).png)
+![Capture d'écran 4](images/Capture%20d%27écran%20(56).png)
+![Capture d'écran 5](images/Capture%20d%27écran%20(57).png)
