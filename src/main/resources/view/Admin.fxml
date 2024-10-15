@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+    <VBox xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.voteenligne.controller.AdminController" spacing="20" alignment="CENTER">
+        <Label text="Ajouter une élection" />
+        <TextField fx:id="electionNameField" promptText="Nom de l'élection" />
+        <Button text="Ajouter Élection" onAction="#handleAddElection"/>
+
+        <Label text="Ajouter un candidat" />
+        <TextField fx:id="candidateNameField" promptText="Nom du candidat" />
+        <ComboBox fx:id="electionComboBox" promptText="Sélectionner une élection"/>
+        <Button text="Ajouter Candidat" onAction="#handleAddCandidate"/>
+    <Button text="Retour à la page Utilisateur" onAction="#handleBackToUserPage"/>
+
+</VBox>
+
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox alignment="CENTER" spacing="20" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.voteenligne.controller.NextPageController">
+    <Label text="Bienvenue dans le système de vote !" />
+    <Button text="Voir les élections" onAction="#handleViewElections" />
+    <Button text="Se déconnecter" onAction="#handleLogout" />
+</VBox>
